@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oh hey, didn't see you there 👀
+
+[![Uchenna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UchennaOkafor&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **UchennaOkafor/UchennaOkafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
