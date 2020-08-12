@@ -2,7 +2,7 @@
 A competent software engineer with 7+ years of programming experience and a positive reputation for delivering quality work. Knowledgeable in all areas of software engineering, albeit specializing in web development and keen to get involved with machine learning.
 
 - 👨🏽‍💻 I currently work on [Ladebug](https://ladebug.net), a platform I built to help developers share answers for bugs they fix.
-- 👐 Open for collaborations in machine learning and interesting software products.
+- 🙌 Open for collaborations in machine learning and interesting software products.
 
 
 ### 🔨 Languages and tools
