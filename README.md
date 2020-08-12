@@ -15,13 +15,9 @@ A competent software engineer with 7+ years of programming experience and a posi
 
 ### 🤝 Connect with me
 
-<p align = "center">
-
-<a href="https://twitter.com/UchennaOkafor_">
-  <img align="left" width="22px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />
-</a>
-<a href="https://www.linkedin.com/in/uchenna-okafor-baa422146/">
-  <img align="left" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
-</a>
-
+<p align="center">
+  
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/UchennaOkafor_) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/uchenna-okafor-baa422146/)
+  
 </p>
