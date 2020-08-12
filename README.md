@@ -1,18 +1,15 @@
-### Oh hey, didn't see you there 👀
+## Hi 👋 I am Uchenna
+A competent software engineer with 7+ years of programming experience and a positive reputation for delivering quality work. Knowledgeable in all areas of software engineering, albeit specializing in web development. 
 
-[![Uchenna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UchennaOkafor&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+- 👨🏽‍💻 I'm currently working on [Ladebug](https://ladebug.net) which is a tool I built to help developers share answers for bugs they fix.
+- 🤝 Open for collaborations in machine learning and software products.
 
-<!--
-**UchennaOkafor/UchennaOkafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🤝 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/UchennaOkafor_) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/uchenna-okafor-baa422146/)
+
+</p>
