@@ -1,4 +1,5 @@
 ## Hi 👋 I'm Uchenna
+
 A competent software engineer with 7+ years of programming experience and a positive reputation for delivering quality work. Knowledgeable in all areas of software engineering, albeit specializing in web development and keen to get involved with machine learning.
 
 - 👨🏽‍💻 Currently working on [Ladebug](https://ladebug.net), a platform I built to help developers share bug fixing knowledge.
@@ -17,7 +18,11 @@ A competent software engineer with 7+ years of programming experience and a posi
 
 <p align="center">
   
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/_UchennaOkafor) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/uchenna-okafor-baa422146/)
-  
+<a href="https://twitter.com/_UchennaOkafor">
+  <img align="left" alt="Uchenna Okafor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/uchenna-okafor-baa422146/">
+  <img align="left" alt="Uchenna Okafor's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 </p>
