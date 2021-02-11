@@ -19,6 +19,6 @@ A software engineer with 7+ years of programming experience and a positive reput
 <p align="center">
   
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/_UchennaOkafor) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/uchenna-okafor-baa422146/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/uchenna-🦩-okafor-baa422146/)
   
 </p>
