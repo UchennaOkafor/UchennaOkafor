@@ -1,9 +1,9 @@
 ## Hi 👋 I'm Uchenna
 
-A software engineer with 8+ years of programming experience and a positive reputation for delivering quality work. Knowledgeable in all areas of software engineering, albeit specializing in web development and keen to get involved with machine learning.
+A full stack software engineer with 8+ years of programming experience and a positive reputation for delivering quality work. Knowledgeable in all areas of software engineering, currently focusing in web and mobile development.
 
 - 👨🏽‍💻 Currently working on [Bugshare](https://bugshare.io), a platform I built to help developers share their bug fixing knowledge.
-- 🙌 Open for collaborations in machine learning and interesting software products.
+- 🙌 Open for collaborations in fintech and crypto projects.
 
 
 ### 🔨 Languages and tools
