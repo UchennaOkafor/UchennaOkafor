@@ -20,4 +20,4 @@ Currently specialising in mobile & web development.
 ###  🤝 Connect with me
  
 [<img height="35" src="https://cdn0.iconfinder.com/data/icons/social-and-online-logos/40/Twitter-1024.png"/>](https://twitter.com/_UchennaOkafor)&nbsp;&nbsp;
-[<img height="35" src="https://cdn0.iconfinder.com/data/icons/social-and-online-logos/40/LinkedIn-256.png"/>](https://www.linkedin.com/in/uchenna-okafor-baa422146/)
+[<img height="35" src="https://cdn0.iconfinder.com/data/icons/social-and-online-logos/40/LinkedIn-1024.png"/>](https://www.linkedin.com/in/uchenna-okafor-baa422146/)
