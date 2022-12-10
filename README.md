@@ -1,7 +1,6 @@
 ##  Hi 👋 I'm Uchenna,
 
-Founder with an interest in building and iterating on software products that deliver a world class user experience using react native and native android.
-Currently specialising in mobile & web development.
+Founder with an interest in building world class products using react native, native android and on the web.
 
 - 👨🏽‍💻 Founder of [Bugshare](https://bugshare.io), a debugging assistant that automatically searches the web for solutions to your developer errors, so that you can get back to coding.
 - 👨🏽‍💻 Also founded [Coincademy](https://coincademy.app), a cross-platform mobile app I built that makes it easier for people to learn about the world of web3 from short form content.
