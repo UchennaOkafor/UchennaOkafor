@@ -1,24 +1,23 @@
-## Hi 👋 I'm Uchenna
+##  Hi 👋 I'm Uchenna,
 
-A full stack software engineer with 8+ years of programming experience and a positive reputation for delivering quality work. Knowledgeable in all areas of software engineering, currently focusing in web and mobile development.
+Founder with an interest in building and iterating on software products that deliver a world class user experience using react native and native android.
+Currently specialising in mobile & web development.
 
-- 👨🏽‍💻 Currently working on [Bugshare](https://bugshare.io), a platform I built to help developers share their bug fixing knowledge.
-- 🙌 Open for collaborations in fintech and crypto projects.
+- 👨🏽‍💻 Founder of [Bugshare](https://bugshare.io), a debugging assistant that automatically searches the web for solutions to your developer errors, so that you can get back to coding.
+- 👨🏽‍💻 Also founded [Coincademy](https://coincademy.app), a cross-platform mobile app I built that makes it easier for people to learn about the world of web3 from short form content.
+- 🙌 Open for collaborations in Fintech, Crypto and AI projects.
 
+###  💻 Languages and tools
 
-### 🔨 Languages and tools
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-
-### 🤝 Connect with me
-
-<p align="center">
-  
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/_UchennaOkafor) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/uchenna-okafor-baa422146/)
-  
-</p>
+###  🤝 Connect with me
+ 
+[<img height="35" src="https://cdn0.iconfinder.com/data/icons/social-and-online-logos/40/Twitter-1024.png"/>](https://twitter.com/_UchennaOkafor)&nbsp;&nbsp;
+[<img height="35" src="https://cdn0.iconfinder.com/data/icons/social-and-online-logos/40/LinkedIn-256.png"/>](https://www.linkedin.com/in/uchenna-okafor-baa422146/)
