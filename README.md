@@ -12,10 +12,11 @@ Currently specialising in mobile & web development.
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/UchennaOkafor/UchennaOkafor/63c3bbc899bc9af38636194d69158f848ffaa189/logos/expo/logo-wordmark.svg"></code>
 
 ###  🤝 Connect with me
  
