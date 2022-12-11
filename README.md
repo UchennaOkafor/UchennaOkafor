@@ -17,6 +17,8 @@ A founder with an interest in building world class products using react native, 
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/UchennaOkafor/UchennaOkafor/63c3bbc899bc9af38636194d69158f848ffaa189/logos/expo/logo-wordmark.svg"></code>
 
 ###  🤝 Connect with me
