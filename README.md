@@ -4,7 +4,7 @@ A founder with an interest in building world class products using react native, 
 
 - 👨🏽‍💻 Founder of [Bugshare](https://bugshare.io), a debugging assistant that automatically finds the solutions to your developer errors, so that you can get back to coding.
 
-- 👨🏽‍💻 Also building [Coincademy](https://coincademy.app), a cross-platform mobile app that makes it easier for people to learn about the world of web3 from short form content.
+- 👨🏽‍💻 Also building [Coincademy](https://coincademy.typedream.app), a cross-platform mobile app that makes it easier for people to learn about the world of web3 from short form content.
 
 - 🙌 Open for collaborations in Fintech, Crypto and AI projects.
 
