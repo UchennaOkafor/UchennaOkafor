@@ -4,7 +4,7 @@ A founder with an interest in building world class products using react native, 
 
 - 👨🏽‍💻 Currently building [Converse AI](https://converse-ai.framer.website/), a cross-platform language learning mobile app.
 
-- 👨🏽‍💻 Former Founder of [Bugshare](https://bugshare.io), a debugging assistant that automatically finds the solutions to your developer errors, so that you can get back to coding.
+- 👨🏽‍💻 Founded [Bugshare](https://bugshare.io), a debugging assistant that automatically finds the solutions to your developer errors, so that you can get back to coding.
 
 - 👨🏽‍💻 Also built [Coincademy](https://coincademy.typedream.app), a cross-platform mobile app that makes it easier for people to learn about the world of web3 from short form content.
 
